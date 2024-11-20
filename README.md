@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xxxia2024
+- 👀 I’m interested in finance
+- 🌱 I’m currently learning deep learning methods
